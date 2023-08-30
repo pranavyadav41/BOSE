@@ -64,7 +64,7 @@ p{
 }
 .Bar1{
     background-image: url("img/img1.jpeg");
-    background-size:contain;
+    background-size:cover;
     position: relative;
     display:flex;
 
@@ -134,7 +134,7 @@ p{
 
 .Bar3{
     background-image: url("img/bar2.jpeg");
-    background-size:contain;
+    background-size:cover;
     position: relative;
     display: flex;
 
@@ -221,7 +221,7 @@ p{
 }
 .Bar4{
     background-image: url("img/bar3.jpeg");
-    background-size:contain;
+    background-size:cover;
     position: relative;
     display:flex;
 }
@@ -234,7 +234,7 @@ p{
 }
 .Bar5{
     background-image: url("img/bar4.jpeg");
-    background-size:contain;
+    background-size:cover;
     position: relative;
     display:flex;
     color:white;
@@ -277,7 +277,7 @@ p{
 }
 .Bar7{
     background-image: url("img/bar6.jpeg");
-    background-size:contain;
+    background-size:cover;
     position: relative;
     display: flex;
 
