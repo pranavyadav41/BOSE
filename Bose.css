@@ -398,25 +398,37 @@ p{
     color: #666;
 }
 .searchbox{
-    width:286px;
-    height:27px;
-    border-radius:25px;
-    margin-top: 4px;
+    width:223px;
+    height:14px;
     margin-left: 10px;
     background-color: #ffffff;
+    border: none;
 
 }
 .searchcontainer{
     position: relative;
-    display: inline-block;
-    width:350px;
-    padding-right: 40px;
+    display:flex;
+    width:260px;
+    height:26px;
+    background-color: #fff;
+    padding-right: 5px;
+    border-radius: 25px;
+    margin-top: 5px;
+    align-items: center;
+}
+.imgsearch{
+    width:18px;
+    height:19px;
+    margin-top: 2px;
+
+
 }
 .support{
     height:40px;
     width:100px;
     display: flex;
     align-items: center;
+    margin-left: 25px;
 }
 .stores{
     height:40px;
@@ -434,10 +446,7 @@ p{
     color:#fff;
     font-size: 12px;
 }
-.search-button{
-    position:absolute;
-    margin-top: 8px;
-}
+
 .rightbar{
     width:50%;
     height:100%;
@@ -468,3 +477,4 @@ p{
     font-size: 12px;
     font-weight: lighter;
 }
+.logo1,.searchbox,.imgsearch,.buttonz,.size,.font,.button,.a,.button1,.button2,.product,.p1,.Btext,.Btext1,.button3,.icon,.email,.phase1,.phase2,.footer21,.foo3,.foo31:hover{ cursor: pointer;}
