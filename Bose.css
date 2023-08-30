@@ -25,7 +25,7 @@ p{
 .Bar2{
     width:100%;
     height:554px;
-    background:white;
+    background:#ffffff;
 }
 .Bar8{
     width:100%;
@@ -91,7 +91,7 @@ p{
 }
 .a{
     font-size: 12px;
-    color: white;
+    color: #ffffff;
     margin-left: 40px;
 }
 .button{
@@ -118,12 +118,12 @@ p{
     padding-top: 167px;
     padding-right:90px;
     font-size: 32px;
-    color:white;
+    color:#ffffff;
 }
 .text2{
     line-height: 60px;
     font-size: 14px;
-    color:white;
+    color:#ffffff;
     padding-right: 180px;
 }
 .Bar1{
@@ -140,7 +140,7 @@ p{
 
 }
 .B3{
-    color: white;
+    color: #ffffff;
     font-size: 26px;
 }
 .foo3{
@@ -158,7 +158,7 @@ p{
 }
 .footer21{
     font-size: 12px;
-    color: white;
+    color: #ffffff;
     margin-left:10px;
 }
 .Bar3{
@@ -167,7 +167,7 @@ p{
     font-size: 25px;
 }
 .B4{
-    color:white;
+    color:#ffffff;
     font-size: 14px;
 }
 .button3{
@@ -176,7 +176,7 @@ p{
     width:170px;
     margin-top: 10px;
     background-color: #242424;
-    color: white;
+    color: #ffffff;
 }
 .right1{
     width:100%;
@@ -237,7 +237,7 @@ p{
     background-size:cover;
     position: relative;
     display:flex;
-    color:white;
+    color:#ffffff;
     
 }
 .left3{
@@ -264,7 +264,7 @@ p{
 .right4{
     width:588.48px;
     height:193.2px;
-    background-color:white;
+    background-color:#ffffff;
     margin-top: 150px;
 
 }
@@ -292,7 +292,7 @@ p{
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    color:white;
+    color:#ffffff;
     line-height: 32px;
 
 
@@ -325,13 +325,13 @@ p{
 }
 .text4{
     font-size: 25px;
-    color:white;
+    color:#ffffff;
 }
 .text5{
     font-size: 25px;
 }
 .phase1{
-    color: white;
+    color: #ffffff;
     margin-top: 60px;
     line-height: 30px;
     font-size: 12px;
@@ -403,7 +403,7 @@ p{
     border-radius:25px;
     margin-top: 4px;
     margin-left: 10px;
-    background-color: white;
+    background-color: #ffffff;
 
 }
 .searchcontainer{
@@ -427,7 +427,7 @@ p{
 .size{
     width:21px;
     height:21px;
-    background-color:white;
+    background-color:#ffffff;
     border-radius: 4px;
 }
 .font{
